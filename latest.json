@@ -1,6 +1,6 @@
 {
   "version": "6.1.0",
-  "min_version": "6.1.0",
+  "min_version": "6.1.1",
   "required": true,
   "download_url": "https://github.com/kurguxstudio-web/kurgux-releases/releases/latest/download/KurguX-PRO-Setup.exe",
   "changelog": "Canlı önizleme ekranı sabitleme (Sticky Preview) + v6.1 PRO güncellemesi."
